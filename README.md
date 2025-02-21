@@ -79,5 +79,5 @@ Each model is used to derive **closed-form solutions** for:
 ## 🛠️ **Installation & Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Options-Pricing-and-Calibration.git
+   git clone https://github.com/thawalk/Options-Pricing-and-Calibration.git
    cd Options-Pricing-and-Calibration
